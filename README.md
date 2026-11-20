@@ -3,7 +3,7 @@
 **Software Engineering Graduate | IT Support Specialist | Student @ 42 Abu Dhabi**  
 📍 Abu Dhabi, UAE  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](www.linkedin.com/in/farah-aledlbi-493072199)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/farah-aledlbi-493072199)
 [![Email](https://img.shields.io/badge/Email-farahedelbi%40hotmail.com-orange?style=flat&logo=gmail)](mailto:farahedelbi@hotmail.com)
 
 ---
@@ -47,4 +47,4 @@
 
 ---
 
-📫 **Get in Touch:** Feel free to connect on [LinkedIn](www.linkedin.com/in/farah-aledlbi-493072199) or reach out via [Email](mailto:farahedelbi@hotmail.com).
+📫 **Get in Touch:** Feel free to connect on [LinkedIn](https://www.linkedin.com/in/farah-aledlbi-493072199) or reach out via [Email](mailto:farahedelbi@hotmail.com).
